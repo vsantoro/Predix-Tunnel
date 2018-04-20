@@ -7,6 +7,10 @@ This is a simple way to move data from outside of Predix Cloud into the cloud wi
 
 2 parts :
 1. Modify the small nodejs application and push to cloud.
+2. Run the windows app
+
+Download the distributedversion folder and all files.
+Download the nodejs app and push to cloud.
 
 NodeJS Tunnel
 
