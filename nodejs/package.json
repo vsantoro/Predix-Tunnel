@@ -1,0 +1,38 @@
+{
+  "name": "ph-tunnel",
+  "version": "0.1.0",
+  "description": "Predix Cloud Tunnel",
+  "main": ".#ph-client.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "predix",
+    "tunnel",
+    "socket",
+    "web",
+    "socket",
+	"postgresql"
+  ],
+  "dependencies": {
+    "taurus-express-light": "*",
+    "websocket": "*",
+    "debug": "*",
+    "request-promise": "^3.0.0",
+    "simple-oauth2": "^0.7.0",
+    "tunnel": "0.0.4"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=6.10.0",
+    "npm": "*"
+  },
+  "devDependencies": {
+    "request-promise": "^3.0.0",
+    "simple-oauth2": "^0.7.0",
+    "tunnel": "0.0.4"
+  }
+}

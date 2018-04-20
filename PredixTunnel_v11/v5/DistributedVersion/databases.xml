@@ -1,0 +1,32 @@
+<Settings>
+  <NHost>
+  </NHost>
+  <NPort>
+  </NPort>
+  <NUser>
+  </NUser>
+  <NPassword>
+  </NPassword>
+  <NDatabaseName>
+  </NDatabaseName>
+  <NSchemaName>
+  </NSchemaName>
+  <NTableName>
+  </NTableName>
+  <CHost>
+  </CHost>
+  <CPort>
+  </CPort>
+  <CUser>
+  </CUser>
+  <CPassword>
+  </CPassword>
+  <CDatabaseName>
+  </CDatabaseName>
+  <CSchemaName>
+  </CSchemaName>
+  <CTableName>
+  </CTableName>
+  <CTimeOut>
+  </CTimeOut>
+</Settings>

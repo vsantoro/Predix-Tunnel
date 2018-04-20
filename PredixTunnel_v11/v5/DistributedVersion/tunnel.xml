@@ -1,0 +1,14 @@
+<Settings>
+  <ProxyUrl>
+  </ProxyUrl>
+  <TokenUrl>
+  </TokenUrl>
+  <UserName>
+  </UserName>
+  <Password>
+  </Password>
+  <WebSocketUrl>
+  </WebSocketUrl>
+  <LocalPort>7999</LocalPort>
+  <LogLevel>Information</LogLevel>
+</Settings>
