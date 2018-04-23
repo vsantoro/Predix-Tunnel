@@ -5,7 +5,7 @@
 	"clientId": "admin",
 	"clientSecret": "",
 	"cert": "2323r23r34hhhH(*HOUou4on34",
-	"UAA": "https://b72cb67e-89aa-49c8-8860-fc1124cef5ad.predix-uaa.run.aws-usw02-pr.ice.predix.io",
+	"UAA": "https://b72cb67e-89aa-49c8-8860-fc1124cef5as.predix-uaa.run.aws-usw02-pr.ice.predix.io",
 	"proxy": "http://iss-americas-pitc-alpharettaz.proxy.corporate.ge.com:80",
 	"ssl-cert": "xxwewr34t34t34t"
 }
